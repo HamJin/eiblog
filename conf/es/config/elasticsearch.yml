@@ -1,5 +1,5 @@
 network.host: 0.0.0.0
-http.publish_port $PORT
+http.publish_port:$PORT
 index:
   analysis:
     analyzer:
